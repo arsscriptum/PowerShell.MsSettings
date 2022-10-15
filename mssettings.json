@@ -1,0 +1,747 @@
+[
+  {
+    "COMMAND": "ms-settings:apps-volume",
+    "CATEGORY": "Audio",
+    "APPLICATION": "App volume and device preferences (1903) \t"
+  },
+  {
+    "COMMAND": "ms-settings:batterysaver-settings",
+    "CATEGORY": "Power",
+    "APPLICATION": "Battery Saver - settings \t"
+  },
+  {
+    "COMMAND": "ms-settings:batterysaver-usagedetails",
+    "CATEGORY": "Power",
+    "APPLICATION": "Battery Saver - usage \t"
+  },
+  {
+    "COMMAND": "ms-settings:cortana-permissions",
+    "CATEGORY": "Search",
+    "APPLICATION": "Cortana permissions \t"
+  },
+  {
+    "COMMAND": "ms-settings:cortana-moredetails",
+    "CATEGORY": "Search",
+    "APPLICATION": "Cortana more details \t"
+  },
+  {
+    "COMMAND": "ms-settings:cortana-windowssearch",
+    "CATEGORY": "Search",
+    "APPLICATION": "Windows Search \t"
+  },
+  {
+    "COMMAND": "ms-settings:delivery-optimization",
+    "CATEGORY": "Windows",
+    "APPLICATION": "Delivery Optimization \t"
+  },
+  {
+    "COMMAND": "ms-settings:devices-touchpad",
+    "CATEGORY": "Devices",
+    "APPLICATION": "Touchpad "
+  },
+  {
+    "COMMAND": "ms-settings:display-advanced",
+    "CATEGORY": "Display",
+    "APPLICATION": "Graphics Advanced scaling settings \t"
+  },
+  {
+    "COMMAND": "ms-settings:display-advancedgraphics",
+    "CATEGORY": "Display",
+    "APPLICATION": "Graphics performance preference \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-audio",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Ease of Access Audio (build 17035+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-closedcaptioning",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Closed Captioning \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-colorfilter",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Color Filters (build 17025+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-colorfilter-adaptivecolorlink",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Adaptive Color Filters Link \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-cursor",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Text Cursor"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-cursorandpointersize",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Mouse Pointer"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-display",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Display Text scaling (build 17025+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-eyecontrol",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Eye Control (build 17035+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-highcontrast",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "High Contrast \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-keyboard",
+    "CATEGORY": "Devices",
+    "APPLICATION": "Keyboard "
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-magnifier",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Magnifier "
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-mouse",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Mouse "
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-mousepointer",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Mouse Pointer"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-narrator",
+    "CATEGORY": "Audio",
+    "APPLICATION": "Narrator "
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-narrator-isautostartenabled",
+    "CATEGORY": "Audio",
+    "APPLICATION": "Start Narrator after sign-in \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-otheroptions",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Other options \t"
+  },
+  {
+    "COMMAND": "ms-settings:easeofaccess-speechrecognition",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Speech recognition (build 17035+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:family-group",
+    "CATEGORY": "Security",
+    "APPLICATION": "Family & other users \t"
+  },
+  {
+    "COMMAND": "ms-settings:maps-downloadmaps",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Download maps \t"
+  },
+  {
+    "COMMAND": "ms-settings:network-airplanemode",
+    "CATEGORY": "Network",
+    "APPLICATION": "Airplane mode (wireless/bluetooth) \t"
+  },
+  {
+    "COMMAND": "ms-settings:network-cellular",
+    "CATEGORY": "Network",
+    "APPLICATION": "Cellular Network \t"
+  },
+  {
+    "COMMAND": "ms-settings:network-dialup",
+    "CATEGORY": "Network",
+    "APPLICATION": "Dial-up Network \t"
+  },
+  {
+    "COMMAND": "ms-settings:network-directaccess",
+    "CATEGORY": "Network",
+    "APPLICATION": "DirectAccess "
+  },
+  {
+    "COMMAND": "ms-settings:network-ethernet",
+    "CATEGORY": "Network",
+    "APPLICATION": "Ethernet Network \t"
+  },
+  {
+    "COMMAND": "ms-settings:network-mobilehotspot",
+    "CATEGORY": "Network",
+    "APPLICATION": "Mobile Hotspot \t"
+  },
+  {
+    "COMMAND": "ms-settings:network-proxy",
+    "CATEGORY": "Network",
+    "APPLICATION": "Proxy (Network) \t"
+  },
+  {
+    "COMMAND": "ms-settings:network-status",
+    "CATEGORY": "Network",
+    "APPLICATION": "Network Status \t"
+  },
+  {
+    "COMMAND": "ms-settings:network-vpn",
+    "CATEGORY": "Network",
+    "APPLICATION": "VPN "
+  },
+  {
+    "COMMAND": "ms-settings:network-wifi",
+    "CATEGORY": "Network",
+    "APPLICATION": "Wi-Fi "
+  },
+  {
+    "COMMAND": "ms-settings:network-wifisettings",
+    "CATEGORY": "Network",
+    "APPLICATION": "Manage known Wi-Fi \t"
+  },
+  {
+    "COMMAND": "ms-settings:personalization-background",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Backgrounds "
+  },
+  {
+    "COMMAND": "ms-settings:personalization-colors",
+    "CATEGORY": null,
+    "APPLICATION": "Colors "
+  },
+  {
+    "COMMAND": "ms-settings:personalization-start",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Start Menu \t"
+  },
+  {
+    "COMMAND": "ms-settings:personalization-start-places",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Start Menu (choose which folders appear) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-accountinfo",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Account info (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-activityhistory",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Activity history (build 17040+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-appdiagnostics",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "App diagnostics (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-automaticfiledownloads",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Automatic online file downloads \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-backgroundapps",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Background apps \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-broadfilesystemaccess",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "File System (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-calendar",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Calendar (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-callhistory",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Call history (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-contacts",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Contacts (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-customdevices",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Unpaired devices (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-documents",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Document Library (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-email",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Email (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-eyetracker",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Eye tracker (requires eyetracker hardware) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-feedback",
+    "CATEGORY": "Security",
+    "APPLICATION": "Feedback & diagnostics (privacy) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-feedback-telemetryviewergroup",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Send Diagnostic Data to Microsoft \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-location",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Location (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-messaging",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Messaging (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-microphone",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Microphone (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-motion",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Motion (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-notifications",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Notifications (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-pictures",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Picture Library (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-radios",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Radio (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-speech",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Online Speech recognition \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-speechtyping",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Remember typing patterns \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-tasks",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Tasks (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-videos",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Video Library (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-voiceactivation",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Voice activation (apps can listen) \t"
+  },
+  {
+    "COMMAND": "ms-settings:privacy-webcam",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Webcam (share between apps) \t"
+  },
+  {
+    "COMMAND": "ms-settings:search-moredetails",
+    "CATEGORY": "Search",
+    "APPLICATION": "Search details \t"
+  },
+  {
+    "COMMAND": "ms-settings:search-permissions",
+    "CATEGORY": "Search",
+    "APPLICATION": "Search Permissions & search history \t"
+  },
+  {
+    "COMMAND": "ms-settings:signinoptions-dynamiclock",
+    "CATEGORY": "Security",
+    "APPLICATION": "Dynamic Lock \t"
+  },
+  {
+    "COMMAND": "ms-settings:signinoptions-launchfaceenrollment",
+    "CATEGORY": "Security",
+    "APPLICATION": "Windows Hello face setup \t"
+  },
+  {
+    "COMMAND": "ms-settings:signinoptions-launchfingerprintenrollment",
+    "CATEGORY": "Security",
+    "APPLICATION": "Windows Hello fingerprint setup \t"
+  },
+  {
+    "COMMAND": "ms-settings:signinoptions-launchsecuritykeyenrollment",
+    "CATEGORY": "Security",
+    "APPLICATION": "Security Key setup \t"
+  },
+  {
+    "COMMAND": "ms-settings:sound-devices",
+    "CATEGORY": "Audio",
+    "APPLICATION": "Manage sound devices (disable/test) \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsupdate-action",
+    "CATEGORY": "Security",
+    "APPLICATION": "WinUpdate - Check for updates \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsupdate-activehours",
+    "CATEGORY": "Security",
+    "APPLICATION": "WinUpdate - Active Hours \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsupdate-history",
+    "CATEGORY": "Security",
+    "APPLICATION": "WinUpdate - Update history \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsupdate-optionalupdates",
+    "CATEGORY": "Security",
+    "APPLICATION": "WinUpdate - Optional updates \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsupdate-options",
+    "CATEGORY": "Security",
+    "APPLICATION": "WinUpdate - Advanced options \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsupdate-restartoptions",
+    "CATEGORY": "Security",
+    "APPLICATION": "WinUpdate - Restart options \t"
+  },
+  {
+    "COMMAND": "ms-settings:about ",
+    "CATEGORY": "Windows",
+    "APPLICATION": "About (device name/specification) \t"
+  },
+  {
+    "COMMAND": "ms-settings:activation ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Activation "
+  },
+  {
+    "COMMAND": "ms-settings:appsfeatures ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Apps & features \t"
+  },
+  {
+    "COMMAND": "ms-settings:appsforwebsites ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Apps for websites \t"
+  },
+  {
+    "COMMAND": "ms-settings:assignedaccess ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Set up a kiosk \t"
+  },
+  {
+    "COMMAND": "ms-settings:autoplay ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "AutoPlay "
+  },
+  {
+    "COMMAND": "ms-settings:backup ",
+    "CATEGORY": "Storage",
+    "APPLICATION": "Backup "
+  },
+  {
+    "COMMAND": "ms-settings:batterysaver ",
+    "CATEGORY": "Power",
+    "APPLICATION": "Battery Saver \t"
+  },
+  {
+    "COMMAND": "ms-settings:bluetooth ",
+    "CATEGORY": "Network",
+    "APPLICATION": "Bluetooth & Connected Devices \t"
+  },
+  {
+    "COMMAND": "ms-settings:clipboard ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Clipboard "
+  },
+  {
+    "COMMAND": "ms-settings:connecteddevices ",
+    "CATEGORY": "Network",
+    "APPLICATION": "Bluetooth & Connected Devices \t"
+  },
+  {
+    "COMMAND": "ms-settings:cortana ",
+    "CATEGORY": "Search",
+    "APPLICATION": "Cortana "
+  },
+  {
+    "COMMAND": "ms-settings:crossdevice ",
+    "CATEGORY": "Network",
+    "APPLICATION": "Shared experiences \t"
+  },
+  {
+    "COMMAND": "ms-settings:datausage ",
+    "CATEGORY": "Storage",
+    "APPLICATION": "Data Sense \t"
+  },
+  {
+    "COMMAND": "ms-settings:dateandtime ",
+    "CATEGORY": "Region & Language",
+    "APPLICATION": "Date & Time \t"
+  },
+  {
+    "COMMAND": "ms-settings:defaultapps ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Default apps \t"
+  },
+  {
+    "COMMAND": "ms-settings:developers ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "For developers \t"
+  },
+  {
+    "COMMAND": "ms-settings:deviceencryption ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Device Encryption (where available) \t"
+  },
+  {
+    "COMMAND": "ms-settings:display ",
+    "CATEGORY": "Display",
+    "APPLICATION": "Display "
+  },
+  {
+    "COMMAND": "ms-settings:emailandaccounts ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Email & app accounts \t"
+  },
+  {
+    "COMMAND": "ms-settings:findmydevice ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Find My Device \t"
+  },
+  {
+    "COMMAND": "ms-settings:fonts ",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Fonts (build 17083+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:lockscreen ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Lock screen \t"
+  },
+  {
+    "COMMAND": "ms-settings:maps ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Offline Maps \t"
+  },
+  {
+    "COMMAND": "ms-settings:mousetouchpad ",
+    "CATEGORY": "Devices",
+    "APPLICATION": "Mouse & Touchpad Devices \t"
+  },
+  {
+    "COMMAND": "ms-settings:multitasking ",
+    "CATEGORY": "Display",
+    "APPLICATION": "Multitasking "
+  },
+  {
+    "COMMAND": "ms-settings:network ",
+    "CATEGORY": "Network",
+    "APPLICATION": "Network & Internet \t"
+  },
+  {
+    "COMMAND": "ms-settings:nightlight ",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Night light settings \t"
+  },
+  {
+    "COMMAND": "ms-settings:notifications ",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Notifications and Actions \t"
+  },
+  {
+    "COMMAND": "ms-settings:optionalfeatures ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Optional features \t"
+  },
+  {
+    "COMMAND": "ms-settings:otherusers ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Family & other users \t"
+  },
+  {
+    "COMMAND": "ms-settings:personalization ",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Personalization "
+  },
+  {
+    "COMMAND": "ms-settings:colors ",
+    "CATEGORY": "Customisation",
+    "APPLICATION": ""
+  },
+  {
+    "COMMAND": "ms-settings:powersleep ",
+    "CATEGORY": "Power",
+    "APPLICATION": "Power & Sleep \t"
+  },
+  {
+    "COMMAND": "ms-settings:printers ",
+    "CATEGORY": "Devices",
+    "APPLICATION": "Printers "
+  },
+  {
+    "COMMAND": "ms-settings:privacy ",
+    "CATEGORY": "Privacy",
+    "APPLICATION": "Privacy "
+  },
+  {
+    "COMMAND": "ms-settings:project ",
+    "CATEGORY": "Display",
+    "APPLICATION": "Projecting to this PC \t"
+  },
+  {
+    "COMMAND": "ms-settings:proximity ",
+    "CATEGORY": "Network",
+    "APPLICATION": "Airplane mode (wireless/bluetooth) \t"
+  },
+  {
+    "COMMAND": "ms-settings:quietmomentshome ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "OR "
+  },
+  {
+    "COMMAND": "ms-settings:recovery ",
+    "CATEGORY": "Windows",
+    "APPLICATION": "Recovery - Reset/Advanced startup \t"
+  },
+  {
+    "COMMAND": "ms-settings:regionformatting ",
+    "CATEGORY": "Region & Language",
+    "APPLICATION": "Region "
+  },
+  {
+    "COMMAND": "ms-settings:regionlanguage ",
+    "CATEGORY": "Region & Language",
+    "APPLICATION": "Region & language \t"
+  },
+  {
+    "COMMAND": "ms-settings:remotedesktop ",
+    "CATEGORY": "Network",
+    "APPLICATION": "Remote Desktop \t"
+  },
+  {
+    "COMMAND": "ms-settings:savelocations ",
+    "CATEGORY": "Storage",
+    "APPLICATION": "Default Save Locations \t"
+  },
+  {
+    "COMMAND": "ms-settings:screenrotation ",
+    "CATEGORY": "Display",
+    "APPLICATION": "Display Screen rotation \t"
+  },
+  {
+    "COMMAND": "ms-settings:signinoptions ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Sign-in options \t"
+  },
+  {
+    "COMMAND": "ms-settings:sound ",
+    "CATEGORY": "Audio",
+    "APPLICATION": "Sound (build 17063+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:speech ",
+    "CATEGORY": "Audio",
+    "APPLICATION": "Speech "
+  },
+  {
+    "COMMAND": "ms-settings:startupapps ",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Startup (build 17017+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:storagepolicies ",
+    "CATEGORY": "Storage",
+    "APPLICATION": "Storage Sense configuration \t"
+  },
+  {
+    "COMMAND": "ms-settings:storagesense ",
+    "CATEGORY": "Storage",
+    "APPLICATION": "Storage Sense \t"
+  },
+  {
+    "COMMAND": "ms-settings:sync ",
+    "CATEGORY": "Network",
+    "APPLICATION": "Sync your settings \t"
+  },
+  {
+    "COMMAND": "ms-settings:tabletmode ",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Tablet mode \t"
+  },
+  {
+    "COMMAND": "ms-settings:taskbar ",
+    "CATEGORY": "Apps",
+    "APPLICATION": "Taskbar "
+  },
+  {
+    "COMMAND": "ms-settings:themes ",
+    "CATEGORY": "Customisation",
+    "APPLICATION": "Themes "
+  },
+  {
+    "COMMAND": "ms-settings:troubleshoot ",
+    "CATEGORY": "Windows",
+    "APPLICATION": "Troubleshoot - Fix Windows Update \t"
+  },
+  {
+    "COMMAND": "ms-settings:typing ",
+    "CATEGORY": "Accessibility",
+    "APPLICATION": "Typing "
+  },
+  {
+    "COMMAND": "ms-settings:usb ",
+    "CATEGORY": "Devices",
+    "APPLICATION": "USB "
+  },
+  {
+    "COMMAND": "ms-settings:videoplayback ",
+    "CATEGORY": "Display",
+    "APPLICATION": "Video playback (build 16215+) \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsdefender ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Windows Security (Defender) \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsinsider ",
+    "CATEGORY": "Windows",
+    "APPLICATION": "Windows Insider Program (beta's) \t"
+  },
+  {
+    "COMMAND": "ms-settings:windowsupdate ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Windows Update \t"
+  },
+  {
+    "COMMAND": "ms-settings:workplace ",
+    "CATEGORY": "Network",
+    "APPLICATION": "Access work or school \t"
+  },
+  {
+    "COMMAND": "ms-settings:yourinfo ",
+    "CATEGORY": "Security",
+    "APPLICATION": "Your info (Microsoft account) \t"
+  }
+]
